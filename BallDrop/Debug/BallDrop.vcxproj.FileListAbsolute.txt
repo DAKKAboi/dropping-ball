@@ -1,0 +1,2 @@
+C:\Users\t_e_d\source\repos\BallDrop\Debug\BallDrop.exe
+C:\Users\t_e_d\source\repos\BallDrop\Debug\BallDrop.pdb
